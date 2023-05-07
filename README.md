@@ -1,7 +1,7 @@
 ###  -Bikeman Package Delivery
 
 
-## Installation process ()...
+## Installation process ()
 
 
 **Mysql**
